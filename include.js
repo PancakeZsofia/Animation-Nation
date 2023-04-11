@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+{
+  artName: 'Nice to meet you',
+  pageLink: './Art/PancakeZsofia/index.html',
+  imageLink: './Art/PancakeZsofia/nice_to_meet_you.png',
+  author: 'PancakeZsofia',
+  githubLink: 'https://github.com/PancakeZsofia'
+},
 ];
 
 // +--------------------------------------------------------------------------------+
